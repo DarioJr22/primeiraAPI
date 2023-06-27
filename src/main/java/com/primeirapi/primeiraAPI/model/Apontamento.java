@@ -29,5 +29,4 @@ public class Apontamento {
     @JoinColumn(name = "usuario",nullable = false,updatable = false)
     private Usuario usuario;
 
-
 }
